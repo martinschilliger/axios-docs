@@ -1,5 +1,5 @@
 ---
-title: 'Notes'
+title: 'Hinweise'
 prev_title: 'URL-Ähnlich Kodierte Anfragenkörper'
 prev_link: '/de/docs/urlencoded'
 ---
@@ -20,7 +20,7 @@ import axios from 'axios';
 axios.get('/user?ID=12345');
 ```
 
-## Resourcen
+## Ressourcen
 
 * [Changelog](https://github.com/axios/axios/blob/master/CHANGELOG.md)
 * [Upgrade Guide](https://github.com/axios/axios/blob/master/UPGRADE_GUIDE.md)
@@ -28,10 +28,10 @@ axios.get('/user?ID=12345');
 * [Contributing Guide](https://github.com/axios/axios/blob/master/CONTRIBUTING.md)
 * [Code of Conduct](https://github.com/axios/axios/blob/master/CODE_OF_CONDUCT.md)
 
-## Credits
+## Danksagung
 
-Axios wurde stark vom [`$http` service](https://docs.angularjs.org/api/ng/service/$http) in [Angular](https://angularjs.org/) inspiriert. Das Ultimative ziel von Axios ist eine auserhalb von Angular verwendbare Version des `$http` service zu erstellen.
+Axios wurde stark vom [`$http` service](https://docs.angularjs.org/api/ng/service/$http) in [Angular](https://angularjs.org/) inspiriert. Das ultimative Ziel von Axios ist eine ausserhalb von Angular verwendbare Version des `$http` Service bereitzustellen.
 
-## License
+## Lizenz
 
 [MIT](https://github.com/axios/axios/blob/master/LICENSE)
